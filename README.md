@@ -13,7 +13,7 @@ Example grafana plugin: https://github.com/grafana/clock-panel
 
 NodeJS projects use either [NPM](https://www.npmjs.com/ "NPM") or [Yarn](https://yarnpkg.com/ "Yarn") for managing the project and mainly its dependencies. It does not matter much which one is used.
 
-Any open source project should have a README.md file (like this one), which describes how to install/run/build/use the project. See the example grafana plugin.
+Any open source project should have a README.md file (like this one), which describes how to install/run/build/use the project. See the example grafana plugin. Projects usually also have a CHANGELOG.md file, like [this](https://github.com/grafana/clock-panel/blob/master/CHANGELOG.md "this") one.
 
 Files should have unit tests, which can be written using any testing framework. A popular one is [Mocha](https://mochajs.org/ "Mocha").
 
